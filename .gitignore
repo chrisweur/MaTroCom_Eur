@@ -8,3 +8,4 @@
 *.brf
 *.toc
 *.bib
+.DS_store
